@@ -3,7 +3,7 @@ feedparser==6.0.11
 lxml==4.9.4
 PyYAML==6.0.1
 qianfan==0.2.5
-Requests==2.31.0
+Requests==2.32.2
 schedule==1.2.1
 urllib3==2.1.0
 wcferry==39.0.12.0
