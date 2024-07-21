@@ -5,6 +5,6 @@ PyYAML==6.0.1
 qianfan==0.2.5
 Requests==2.31.0
 schedule==1.2.1
-urllib3==2.1.0
+urllib3==2.2.2
 wcferry==39.0.12.0
 websocket_client==1.5.1
